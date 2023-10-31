@@ -6,7 +6,7 @@ This Re-shapes public opinion, influence elections, ignite violence, harm the re
 The Objective is to build a model which can detect the authenticity of an image and localize the tampered portion of the image. To address this issue, UNet architecture is utilized.
 
 Dataset - **IEEE IFS-TC Image Forensics Challenge data**
-(It has both authenticated and manipulated images. For every manipulated image we have its corresponding maks that contain only white and black color pixels)
+(It has both authenticated and manipulated images. For every manipulated image we have its corresponding mask that contain only white and black color pixels)
 
 You can download the Dataset from the below link.
 http://web.archive.org/web/20171013200331/http:/ifc.recod.ic.unicamp.br/fc.website/index.py?sec=5
